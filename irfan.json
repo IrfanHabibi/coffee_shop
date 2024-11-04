@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Caffe Latte",
+    "description": "Smooth coffee with milk foam",
+    "price": 3.0,
+    "image": "https://brookrest.com/wp-content/uploads/2020/05/AdobeStock_315919556-scaled.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Caffe Mocha",
+    "description": "Espresso with chocolate and steamed milk",
+    "price": 4.0,
+    "image": "https://www.milesteaandcoffee.com/userfiles/files/mocha.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cappuccino",
+    "description": "Espresso with steamed milk and foam",
+    "price": 4.5,
+    "image": "https://www.haushaltstipps.net/wp-content/uploads/cappucino-selber-machen.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Caramel Macchiato",
+    "description": "Espresso with vanilla syrup and caramel drizzle",
+    "price": 3.5,
+    "image": "https://www.dailydiylife.com/wp-content/uploads/2022/08/Iced-Caramel-Macchiato.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coffee Frappuccino",
+    "description": "Blended coffee with ice",
+    "price": 3.75,
+    "image": "https://www.thehungrybites.com/wp-content/uploads/2023/06/coffee-ice-cream-frappe-frappuccino-feat.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cold Brew",
+    "description": "Slow-steeped coffee served cold",
+    "price": 4.75,
+    "image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/dDeGbvP9Q38gIDiYIRsd4DCgpzs=/1660x0/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/DFNZP6GCONG3BOKSA7L6I66VQQ.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mango Passion Frappuccino",
+    "description": "Blended mango and passion fruit drink",
+    "price": 4.25,
+    "image": "https://image.entabe.jp/upload/20220418/images/mango-passion01.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mocha Frappuccino",
+    "description": "Blended coffee with chocolate flavor",
+    "price": 3.25,
+    "image": "https://lemonsandzest.com/wp-content/uploads/2019/01/Dark-Chocolate-Sea-Salt-Mocha-Frappucino-10.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Raspberry Currant Frappuccino",
+    "description": "Blended raspberry and currant drink",
+    "price": 5.0,
+    "image": "https://www.starbucks.co.th/stb-media/2020/08/102.Frep_Raspberry-Black-Current.png"
+  },
+  {
+    "id": 10,
+    "name": "Vanilla Sweet Cream Cold Brew",
+    "description": "Cold brew coffee with vanilla sweet cream",
+    "price": 6.0,
+    "image": "https://masalaandchai.com/wp-content/uploads/2021/10/Starbucks-Vanilla-Sweet-Cream-Cold-Foam.jpg"
+  }
+]
